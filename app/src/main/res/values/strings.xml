@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bengkel News</string>
+    <string name="menu_news">List</string>
+    <string name="menu_profile">Profile</string>
+    <string name="no_news_found">No News Found</string>
+    <string name="me_description">Farhan Maulana M</string>
+    <string name="me_email">farhanmaulana111@gmail.com</string>
+</resources>
